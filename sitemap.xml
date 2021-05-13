@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/02/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Blog/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/link/index.html</loc>
     
     <lastmod>2021-03-08</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/02/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Blog/</loc>
-    
-    <lastmod>2021-03-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/404.html</loc>
     
     <lastmod>2020-06-13</lastmod>
@@ -37,7 +37,21 @@
   </url>
   
   <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2020-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/archives/index.html</loc>
+    
+    <lastmod>2020-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2020-06-13</lastmod>
     
@@ -59,20 +73,6 @@
   
   <url>
     <loc>http://example.com/tags/index.html</loc>
-    
-    <lastmod>2020-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2020-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2020-06-13</lastmod>
     
